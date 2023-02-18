@@ -4,7 +4,7 @@ Big Data Ecosystem including Hadoop, the four V's, MapReduce, and Spark
 **Overview of the analysis:**
 Is there any positivity bias in the Amazon Vine program reviews? Amazon Vine program allows chosen reviewers to receive free or heavily discounted products in exchange for an honest feedback.
 
-**Results:**
+**Results:**<div>
 Total number of reviews:  99046 <div> 
 Number of 5-star reviews for Vine program:  509 <div>
 Number of 5-star reviews for non-Vine program:  45858 <div>
